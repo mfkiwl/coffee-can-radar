@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HMC667LP2ETR
+D IC RF Low-Noise Amplifier, 2.3-2.7 GHz
+$ENDCMP
+#
+$CMP MAX2681EUT+T
+D IC Mixer, Downconverter, 400 MHz - 2.5 GHz
+$ENDCMP
+#
+$CMP MAX2750AUA+
+D IC Voltage Controlled Oscillator, Monolithic, 2.4GHz
+$ENDCMP
+#
+$CMP SE2565T-R
+D IC RF Power Amplifier, 2.4 GHz 
+$ENDCMP
+#
+#End Doc Library
