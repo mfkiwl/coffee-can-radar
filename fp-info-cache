@@ -1,4 +1,4 @@
-19064790107613879
+19074481160658002
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -51590,6 +51590,13 @@ HS2-PARTS
 14
 14
 HS2-PARTS
+2477
+4AA Battery Holder, compatible with https://www.keyelco.com/product.cfm/product_id/1039
+
+0
+2
+2
+HS2-PARTS
 BWVS00606045
 
 
@@ -51639,6 +51646,13 @@ SnapEDA: SON65P250X250X80-7N
 7
 7
 HS2-PARTS
+LM2940
+LM2940IMPX-5.0/NOPB, SnapEDA: SOT230P700X180-4N
+
+0
+4
+4
+HS2-PARTS
 MAX2681EUT+T
 SnapEDA: SOT95P280X145-6N
 
@@ -51673,6 +51687,13 @@ PJ-075DH-SMT-TR
 0
 5
 5
+HS2-PARTS
+PV36W
+For trimmer pots. SnapEDA: TRIM_PV36W503C01B00
+
+0
+3
+3
 HS2-PARTS
 SE2565T-R
 SnapEDA: QFN50P300X300X80-17N
@@ -56343,6 +56364,13 @@ Yellow 5381 Series LED
 2
 2
 Misc. Footprints
+2477
+4AA Battery Holder<p>Holds Four (4) AA Cells in Series
+
+0
+2
+2
+Misc. Footprints
 DIP254P762X432-16P
 
 
@@ -56377,6 +56405,20 @@ SOT95P280X145-6N
 0
 6
 6
+Misc. Footprints
+SOT230P700X180-4N
+
+
+0
+4
+4
+Misc. Footprints
+TRIM_PV36W503C01B00
+
+
+0
+3
+3
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
