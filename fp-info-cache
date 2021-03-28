@@ -1,4 +1,4 @@
-18992763905779994
+19074481160658002
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -51575,6 +51575,160 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+HS2-PARTS
+24-QFN_3x5
+
+
+0
+37
+25
+HS2-PARTS
+74LV132BQ-115
+
+
+0
+14
+14
+HS2-PARTS
+2477
+4AA Battery Holder, compatible with https://www.keyelco.com/product.cfm/product_id/1039
+
+0
+2
+2
+HS2-PARTS
+BWVS00606045
+
+
+0
+2
+2
+HS2-PARTS
+BatteryHolder_Keystone_2460_1xAA
+https://www.keyelco.com/product-pdf.cfm?p=1025
+AA battery cell holder
+0
+2
+2
+HS2-PARTS
+CRYSTEK_ENCLOSURE_SMA
+Crystek RF Enclosure
+Enclosure SMA coax
+0
+3
+2
+HS2-PARTS
+DIP762W56P254L1772H585Q12
+
+
+0
+12
+12
+HS2-PARTS
+EXTO-H
+
+
+0
+6
+6
+HS2-PARTS
+GP731
+
+
+0
+8
+8
+HS2-PARTS
+HMC667LP2ETR
+SnapEDA: SON65P250X250X80-7N
+
+0
+7
+7
+HS2-PARTS
+LM2940
+LM2940IMPX-5.0/NOPB, SnapEDA: SOT230P700X180-4N
+
+0
+4
+4
+HS2-PARTS
+MAX2681EUT+T
+SnapEDA: SOT95P280X145-6N
+
+0
+6
+6
+HS2-PARTS
+MAX2750AUA+
+SnapEDA: SOP65P490X110-8N
+
+0
+8
+8
+HS2-PARTS
+MSP430FR5994IPMR
+
+
+0
+64
+64
+HS2-PARTS
+MSP430FR5994IPN
+
+
+0
+80
+80
+HS2-PARTS
+PJ-075DH-SMT-TR
+
+
+0
+5
+5
+HS2-PARTS
+PV36W
+For trimmer pots. SnapEDA: TRIM_PV36W503C01B00
+
+0
+3
+3
+HS2-PARTS
+SE2565T-R
+SnapEDA: QFN50P300X300X80-17N
+
+0
+17
+17
+HS2-PARTS
+SMA_EDGE_MOUNT_132255
+
+
+0
+5
+3
+HS2-PARTS
+XR-2206
+SnapEDA: DIP254P762X432-16P
+
+0
+16
+16
+HS2-PARTS
+logo
+
+
+0
+0
+0
+HS2-PARTS
+oldpot
+
+
+0
+3
+3
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -56209,6 +56363,62 @@ Yellow 5381 Series LED
 0
 2
 2
+Misc. Footprints
+2477
+4AA Battery Holder<p>Holds Four (4) AA Cells in Series
+
+0
+2
+2
+Misc. Footprints
+DIP254P762X432-16P
+
+
+0
+16
+16
+Misc. Footprints
+QFN50P300X300X80-17N
+
+
+0
+17
+17
+Misc. Footprints
+SON65P250X250X80-7N
+
+
+0
+7
+7
+Misc. Footprints
+SOP65P490X110-8N
+
+
+0
+8
+8
+Misc. Footprints
+SOT95P280X145-6N
+
+
+0
+6
+6
+Misc. Footprints
+SOT230P700X180-4N
+
+
+0
+4
+4
+Misc. Footprints
+TRIM_PV36W503C01B00
+
+
+0
+3
+3
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
